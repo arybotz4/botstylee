@@ -1,5 +1,5 @@
 let handler  = async (m, { conn, args }) => {
-   m.reply(`BOTSTYLEE Ini Menggunakan Script Dari Github : https://github.com/botstylee/botstylee`)
+   m.reply(`GA ADA🗿`)
 }
  
 handler.help = ['script']
